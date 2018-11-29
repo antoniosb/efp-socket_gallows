@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "hangman"
+		},
+		{
+			"path": "dictionary"
+		},
+		{
+			"path": "text_client"
+		},
+		{
+			"path": "bot_client"
+		},
+		{
+			"path": "fib_cache"
+		},
+		{
+			"path": "fib_calc"
+		},
+		{
+			"path": "gallows"
+		},
+		{
+			"path": "socket_gallows"
+		}
+	],
+	"settings": {
+		"window.title": "${activeEditorMedium}${separator}${rootName}"
+	}
+}
